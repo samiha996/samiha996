@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samiha996
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Django, Macine Learning
+- 🌱 I’m currently learning Django, Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me samiha.maouch1996@gmail.com
 
